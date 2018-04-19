@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+
+    <TextView
+        android:id="@+id/edit_dialog_title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/edit_dialog_title"
+        android:textSize="24sp"
+        android:textStyle="bold"/>
+
+    <TextView
+        android:id="@+id/edit_dialog_name_text"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/name" />
+
+    <EditText
+        android:id="@+id/edit_dialog_name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:inputType="textPersonName"
+        android:text="@string/default_jersey_name"
+        android:hint="@string/player_name_hint"/>
+
+    <TextView
+        android:id="@+id/edit_dialog_number_text"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/number" />
+
+    <EditText
+        android:id="@+id/edit_dialog_number"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:inputType="number"
+        android:text="@string/default_jersey_number"
+        android:hint="@string/player_number_hint"/>
+
+    <ToggleButton
+        android:id="@+id/color_toggle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textOff="@string/red"
+        android:textOn="@string/blue"
+        />
+
+</LinearLayout>

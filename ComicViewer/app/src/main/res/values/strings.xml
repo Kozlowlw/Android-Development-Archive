@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ComicViewer</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Issue #%1$d</string>
+    <string name="mouse_over">Mouse over text for %d</string>
+    <string name="alt_error_message">ERROR: ALT is missing or wasn\'t loaded, try again</string>
+    <string name="xkcd_url_string_format">https://xkcd.com/%d/info.0.json</string>
+    <string name="info_action_string">Info</string>
+</resources>
