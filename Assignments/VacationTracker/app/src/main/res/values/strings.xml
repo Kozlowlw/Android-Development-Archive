@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">VacationTracker</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="menu_reverse_geocode_request_title">Where am I?</string>
+    <string name="menu_go_to_place_name_title">Go to Address</string>
+    <string name="dialog_add_marker_edit_text_title_hint">Title</string>
+    <string name="dialog_add_marker_edit_text_snippet_hint">Enter a short snippet (optional)</string>
+    <string name="dialog_get_place_name_hint">White House</string>
+    <string name="terre_haute">Terre Haute</string>
+    <string name="need_permission_message">You need to give permission and restart the app</string>
+    <string name="terre_haute_message">You clicked Terre Haute</string>
+    <string name="no_address_found">No address found</string>
+    <string name="geocoder_not_working">Geocoder not working</string>
+    <string name="add_marker_title">Add a marker for (%1$.1f, %2$.1f)</string>
+    <string name="dialog_get_place_name_title">Enter an address</string>
+
+</resources>

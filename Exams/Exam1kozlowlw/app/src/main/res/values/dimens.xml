@@ -1,0 +1,6 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="main_text_size">36sp</dimen>
+    <dimen name="main_triples_size">60sp</dimen>
+    <dimen name="main_margin">12dp</dimen>
+</resources>

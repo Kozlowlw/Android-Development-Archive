@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "652626947359",
+    "firebase_url": "https://kozlowlw-photobucket2.firebaseio.com",
+    "project_id": "kozlowlw-photobucket2",
+    "storage_bucket": "kozlowlw-photobucket2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:652626947359:android:d7e8f5ed96e0543c",
+        "android_client_info": {
+          "package_name": "edu.rosehulman.kozlowlw.photobucket2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "652626947359-bj22sjjos7bgc5um6f0v9j18mh2p5v2u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9BRPhPf3_ZLRTWOyUr13YCItfGF6dNOA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

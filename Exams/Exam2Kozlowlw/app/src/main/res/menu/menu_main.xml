@@ -1,0 +1,25 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="edu.rosehulman.kozlowlw.exam2kozlowlw.MainActivity">
+    <item
+        android:id="@+id/action_sort_button"
+        android:orderInCategory="100"
+        android:icon="@drawable/ic_sort_white_24dp"
+        android:title="@string/action_sort"
+        app:showAsAction="ifRoom"
+        />
+    <item
+        android:id="@+id/action_refresh_button"
+        android:orderInCategory="100"
+        android:icon="@drawable/ic_refresh_white_24dp"
+        android:title="@string/action_refresh"
+        app:showAsAction="ifRoom"
+        />
+    <item
+        android:id="@+id/action_settings_button"
+        android:orderInCategory="100"
+        android:icon="@drawable/ic_settings_white_24dp"
+        android:title="@string/action_settings"
+        app:showAsAction="ifRoom" />
+</menu>

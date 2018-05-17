@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "867115035014",
+    "firebase_url": "https://ourphotobucket-93d84.firebaseio.com",
+    "project_id": "ourphotobucket-93d84",
+    "storage_bucket": "ourphotobucket-93d84.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:867115035014:android:3763d3464690b1ca",
+        "android_client_info": {
+          "package_name": "edu.rosehulman.kozlowlw.signstorage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "867115035014-kpvlab42skja3gm2h6klkhd879bhflo0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "edu.rosehulman.kozlowlw.signstorage",
+            "certificate_hash": "b5ac5cd177cb03c09c0cbe50a38b300f1725bdb2"
+          }
+        },
+        {
+          "client_id": "867115035014-ekcec8154biva5pgki0av1so6vdgkku9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqvBHfa59T-j6ygn5XZuawIKb50975Xqg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "867115035014-ekcec8154biva5pgki0av1so6vdgkku9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

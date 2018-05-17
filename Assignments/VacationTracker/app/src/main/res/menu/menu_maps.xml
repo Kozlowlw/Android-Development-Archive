@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/menu_go_to_place_name"
+        android:title="@string/menu_go_to_place_name_title"
+        android:icon="@android:drawable/ic_menu_mapmode"
+        app:showAsAction="ifRoom" />
+
+    <item android:id="@+id/menu_change_map_type"
+        android:title="Change Map Type"
+        android:icon="@android:drawable/ic_dialog_map"
+        app:showAsAction="ifRoom"
+        />
+
+
+</menu>

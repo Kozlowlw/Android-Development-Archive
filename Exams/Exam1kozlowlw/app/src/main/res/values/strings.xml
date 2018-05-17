@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Exam1 by Kozlowlw</string>
+    <string name="correct_text">Correct: </string>
+    <string name="incorrect_text">Incorrect: </string>
+    <string name="default_correct">0</string>
+    <string name="default_incorrect">0</string>
+    <string name="screen_triples">Learn the triples!</string>
+    <string name="dialog_triple_title">Triple?</string>
+    <string name="dialog_triples">0,0,0</string>
+    <string name="action_reset">Reset</string>
+    <string name="dialog_yes">yes</string>
+    <string name="dialog_no">no</string>
+    <string name="triple_string_prefix">Triple: </string>
+    <string name="snackbar_undo">UNDO</string>
+    <string name="game_reset">Reset Game</string>
+    <string name="game_restored">Game restored</string>
+</resources>

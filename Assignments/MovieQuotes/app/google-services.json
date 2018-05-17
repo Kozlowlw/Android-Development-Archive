@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "407776360196",
+    "firebase_url": "https://kozlowlw-movie-quotes.firebaseio.com",
+    "project_id": "kozlowlw-movie-quotes",
+    "storage_bucket": "kozlowlw-movie-quotes.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:407776360196:android:b571312a233e6030",
+        "android_client_info": {
+          "package_name": "edu.rosehulman.moviequotes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "407776360196-d9acjh5do2foplcr3evtg2v2hqj7j53j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqMxUgW1bM0mky5hkDPkwbgYMQrrfrn8I"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

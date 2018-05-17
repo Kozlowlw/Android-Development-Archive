@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/coordinator_layout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/background"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context="edu.rosehulman.kozlowlw.exam1kozlowlw.MainActivity"
+    tools:showIn="@layout/activity_main">
+
+    <TextView
+        android:id="@+id/correct_text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginRight="@dimen/main_margin"
+        android:text="@string/correct_text"
+        android:textSize="@dimen/main_text_size"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/correct_amount_text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_toRightOf="@+id/correct_text"
+        android:text="@string/default_correct"
+        android:textColor="@color/colorAccent"
+        android:textSize="@dimen/main_text_size"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/incorrect_text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/correct_text"
+        android:layout_marginRight="@dimen/main_margin"
+        android:layout_marginTop="@dimen/main_margin"
+        android:text="@string/incorrect_text"
+        android:textSize="@dimen/main_text_size"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/incorrect_text_amount"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/correct_amount_text"
+        android:layout_marginTop="@dimen/main_margin"
+        android:layout_toRightOf="@+id/incorrect_text"
+        android:text="@string/default_incorrect"
+        android:textColor="@color/colorAccent"
+        android:textSize="@dimen/main_text_size"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/center_triples"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        android:text="@string/screen_triples"
+        android:textColor="@color/colorAccent"
+        android:textSize="@dimen/main_text_size"
+        android:textStyle="bold" />
+
+</RelativeLayout>

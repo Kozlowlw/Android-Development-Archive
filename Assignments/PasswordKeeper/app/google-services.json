@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "857636278274",
+    "firebase_url": "https://kozlowlw-password-keeper.firebaseio.com",
+    "project_id": "kozlowlw-password-keeper",
+    "storage_bucket": "kozlowlw-password-keeper.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:857636278274:android:e990c52a0f880fe5",
+        "android_client_info": {
+          "package_name": "edu.rosehulman.passwordkeeper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "857636278274-l2ferdtnrijapqtovkpi9los0tl6olk5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFaVs5qBxwThjaey3041iflTGPvMWOUxg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
